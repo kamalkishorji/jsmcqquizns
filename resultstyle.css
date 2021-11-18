@@ -1,0 +1,30 @@
+:root {
+    background-color: #ecf5ff;
+    font-size: 62.5%;
+  }
+  #showresult{
+    width: 100vw;
+    height: 100vh; 
+  }
+  #showresult{
+      font-size: 100px;
+      text-align: center;
+      background-color: red;
+      border: 2px;
+      border-radius: 20px;
+      width: 10cm;
+      height: 3cm;
+      margin-left: 460px;
+      
+  }
+  #final{
+      font-size: 100px;
+      text-align: center;
+      border: 2px;
+      border-radius: 25px;
+      background-color: aqua;
+      margin-top: 200px;
+      margin-left: 400px;
+      margin-right: 400px;
+
+  }
